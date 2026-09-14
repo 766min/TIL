@@ -4,8 +4,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/766min/TIL?style=flat-square&color=orange)
 <!-- BADGES:START -->
-![Total Notes](https://img.shields.io/badge/총_학습노트-30개-brightgreen?style=flat-square)
-![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.13-lightgrey?style=flat-square)
+![Total Notes](https://img.shields.io/badge/총_학습노트-31개-brightgreen?style=flat-square)
+![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.14-lightgrey?style=flat-square)
 <!-- BADGES:END -->
 
 ---
@@ -17,7 +17,8 @@ TIL/
 ├── GIT HUB/    🔧 Git & GitHub 기초
 ├── PYTHON/     🐍 파이썬 문법 & 활용
 ├── ML/         🤖 머신러닝 & 딥러닝
-└── SQL/        🗄️ SQL & 데이터베이스
+├── SQL/        🗄️ SQL & 데이터베이스
+└── HTML/       🌐 HTML & 웹 마크업
 ```
 
 ---
@@ -31,7 +32,8 @@ TIL/
 | 🐍 PYTHON | 11개 | 2026.08.13 ~ 2026.08.26 |
 | 🤖 ML | 5개 | 2026.08.27 ~ 2026.09.02 |
 | 🗄️ SQL | 9개 | 2026.09.03 ~ 2026.09.13 |
-| **합계** | **30개** | **2026.08.08 ~ 2026.09.13** |
+| 🌐 HTML | 1개 | 2026.09.14 ~ 2026.09.14 |
+| **합계** | **31개** | **2026.08.08 ~ 2026.09.14** |
 <!-- STATS:END -->
 
 ---
@@ -101,6 +103,17 @@ TIL/
 - [2026-09-11](SQL/2026-09-11.md) — SQL 교안 실습 코드 완전 분석
 - [2026-09-12](SQL/2026-09-12.md) — Supabase/Python 코드 완전 분석
 - [2026-09-13](SQL/2026-09-13.md) — Supabase 기초~실전 실습 가이드
+
+</details>
+
+---
+
+## 🌐 HTML
+
+<details open>
+<summary>전체 목록 보기 (1개)</summary>
+
+- [2026-09-14](HTML/2026-09-14.md) — HTML 기초 (텍스트 태그, 하이퍼링크, 멀티미디어, 폼)
 
 </details>
 
