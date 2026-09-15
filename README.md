@@ -4,8 +4,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/766min/TIL?style=flat-square&color=orange)
 <!-- BADGES:START -->
-![Total Notes](https://img.shields.io/badge/총_학습노트-31개-brightgreen?style=flat-square)
-![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.14-lightgrey?style=flat-square)
+![Total Notes](https://img.shields.io/badge/총_학습노트-32개-brightgreen?style=flat-square)
+![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.15-lightgrey?style=flat-square)
 <!-- BADGES:END -->
 
 ---
@@ -32,8 +32,8 @@ TIL/
 | 🐍 PYTHON | 11개 | 2026.08.13 ~ 2026.08.26 |
 | 🤖 ML | 5개 | 2026.08.27 ~ 2026.09.02 |
 | 🗄️ SQL | 9개 | 2026.09.03 ~ 2026.09.13 |
-| 🌐 HTML | 1개 | 2026.09.14 ~ 2026.09.14 |
-| **합계** | **31개** | **2026.08.08 ~ 2026.09.14** |
+| 🌐 HTML | 2개 | 2026.09.14 ~ 2026.09.15 |
+| **합계** | **32개** | **2026.08.08 ~ 2026.09.15** |
 <!-- STATS:END -->
 
 ---
@@ -111,9 +111,10 @@ TIL/
 ## 🌐 HTML
 
 <details open>
-<summary>전체 목록 보기 (1개)</summary>
+<summary>전체 목록 보기 (2개)</summary>
 
 - [2026-09-14](HTML/2026-09-14.md) — HTML 기초 (텍스트 태그, 하이퍼링크, 멀티미디어, 폼)
+- [2026-09-15](HTML/2026-09-15.md) — HTML5 시멘틱 태그, CSS 기초·선택자·박스모델·position
 
 </details>
 
