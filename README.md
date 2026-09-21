@@ -4,8 +4,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/766min/TIL?style=flat-square&color=orange)
 <!-- BADGES:START -->
-![Total Notes](https://img.shields.io/badge/총_학습노트-32개-brightgreen?style=flat-square)
-![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.15-lightgrey?style=flat-square)
+![Total Notes](https://img.shields.io/badge/총_학습노트-36개-brightgreen?style=flat-square)
+![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.21-lightgrey?style=flat-square)
 <!-- BADGES:END -->
 
 ---
@@ -18,7 +18,8 @@ TIL/
 ├── PYTHON/     🐍 파이썬 문법 & 활용
 ├── ML/         🤖 머신러닝 & 딥러닝
 ├── SQL/        🗄️ SQL & 데이터베이스
-└── HTML/       🌐 HTML & 웹 마크업
+├── HTML/       🌐 HTML & 웹 마크업
+└── JS/         ⚡ JavaScript
 ```
 
 ---
@@ -32,8 +33,9 @@ TIL/
 | 🐍 PYTHON | 11개 | 2026.08.13 ~ 2026.08.26 |
 | 🤖 ML | 5개 | 2026.08.27 ~ 2026.09.02 |
 | 🗄️ SQL | 9개 | 2026.09.03 ~ 2026.09.13 |
-| 🌐 HTML | 2개 | 2026.09.14 ~ 2026.09.15 |
-| **합계** | **32개** | **2026.08.08 ~ 2026.09.15** |
+| 🌐 HTML | 5개 | 2026.09.14 ~ 2026.09.18 |
+| ⚡ JS | 1개 | 2026.09.21 ~ 2026.09.21 |
+| **합계** | **36개** | **2026.08.08 ~ 2026.09.21** |
 <!-- STATS:END -->
 
 ---
@@ -111,10 +113,24 @@ TIL/
 ## 🌐 HTML
 
 <details open>
-<summary>전체 목록 보기 (2개)</summary>
+<summary>전체 목록 보기 (5개)</summary>
 
 - [2026-09-14](HTML/2026-09-14.md) — HTML 기초 (텍스트 태그, 하이퍼링크, 멀티미디어, 폼)
 - [2026-09-15](HTML/2026-09-15.md) — HTML5 시멘틱 태그, CSS 기초·선택자·박스모델·position
+- [2026-09-16](HTML/2026-09-16.md) — CSS 선택자 심화, 박스모델 디테일, Flexbox
+- [2026-09-17](HTML/2026-09-17.md) — Flexbox 고급, Grid, 반응형 웹·Tailwind CSS, 헷갈리는 개념 총정리
+- [2026-09-18](HTML/2026-09-18.md) — HTML/CSS 클론코딩 실습 (넥슨 에센셜 스토어)
+
+</details>
+
+---
+
+## ⚡ JS
+
+<details open>
+<summary>전체 목록 보기 (1개)</summary>
+
+- [2026-09-21](JS/2026-09-21.md) — JS 기초 문법, var→let/const, 객체·배열·내장 객체
 
 </details>
 

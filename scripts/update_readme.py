@@ -15,6 +15,7 @@ CATEGORIES = [
     ("ML", "🤖 ML"),
     ("SQL", "🗄️ SQL"),
     ("HTML", "🌐 HTML"),
+    ("JS", "⚡ JS"),
 ]
 
 DATE_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})\.md$")
