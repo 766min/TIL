@@ -4,8 +4,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/766min/TIL?style=flat-square&color=orange)
 <!-- BADGES:START -->
-![Total Notes](https://img.shields.io/badge/총_학습노트-36개-brightgreen?style=flat-square)
-![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.21-lightgrey?style=flat-square)
+![Total Notes](https://img.shields.io/badge/총_학습노트-37개-brightgreen?style=flat-square)
+![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.09.22-lightgrey?style=flat-square)
 <!-- BADGES:END -->
 
 ---
@@ -34,8 +34,8 @@ TIL/
 | 🤖 ML | 5개 | 2026.08.27 ~ 2026.09.02 |
 | 🗄️ SQL | 9개 | 2026.09.03 ~ 2026.09.13 |
 | 🌐 HTML | 5개 | 2026.09.14 ~ 2026.09.18 |
-| ⚡ JS | 1개 | 2026.09.21 ~ 2026.09.21 |
-| **합계** | **36개** | **2026.08.08 ~ 2026.09.21** |
+| ⚡ JS | 2개 | 2026.09.21 ~ 2026.09.22 |
+| **합계** | **37개** | **2026.08.08 ~ 2026.09.22** |
 <!-- STATS:END -->
 
 ---
@@ -128,9 +128,10 @@ TIL/
 ## ⚡ JS
 
 <details open>
-<summary>전체 목록 보기 (1개)</summary>
+<summary>전체 목록 보기 (2개)</summary>
 
-- [2026-09-21](JS/2026-09-21.md) — JS 기초 문법, var→let/const, 객체·배열·내장 객체
+- [2026-09-21](JS/2026-09-21.md) — 실행 환경·개발 환경 구성, var→let/const, 데이터 타입과 연산자
+- [2026-09-22](JS/2026-09-22.md) — 제어문·예외 처리, 객체·배열, 내장 객체
 
 </details>
 
