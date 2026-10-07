@@ -4,8 +4,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/766min/TIL?style=flat-square&color=orange)
 <!-- BADGES:START -->
-![Total Notes](https://img.shields.io/badge/총_학습노트-41개-brightgreen?style=flat-square)
-![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.10.01-lightgrey?style=flat-square)
+![Total Notes](https://img.shields.io/badge/총_학습노트-44개-brightgreen?style=flat-square)
+![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.10.07-lightgrey?style=flat-square)
 <!-- BADGES:END -->
 
 ---
@@ -19,7 +19,8 @@ TIL/
 ├── ML/         🤖 머신러닝 & 딥러닝
 ├── SQL/        🗄️ SQL & 데이터베이스
 ├── HTML/       🌐 HTML & 웹 마크업
-└── JS/         ⚡ JavaScript
+├── JS/         ⚡ JavaScript
+└── TS/         🔷 TypeScript
 ```
 
 ---
@@ -35,7 +36,9 @@ TIL/
 | 🗄️ SQL | 9개 | 2026.09.03 ~ 2026.09.13 |
 | 🌐 HTML | 5개 | 2026.09.14 ~ 2026.09.18 |
 | ⚡ JS | 6개 | 2026.09.21 ~ 2026.10.01 |
-| **합계** | **41개** | **2026.08.08 ~ 2026.10.01** |
+| 🔷 TS | 2개 | 2026.10.02 ~ 2026.10.06 |
+| ⚛️ NEXTJS | 1개 | 2026.10.07 ~ 2026.10.07 |
+| **합계** | **44개** | **2026.08.08 ~ 2026.10.07** |
 <!-- STATS:END -->
 
 ---
@@ -136,6 +139,17 @@ TIL/
 - [2026-09-29](JS/2026-09-29.md) — 배열(Array) 완전 정리, 네이티브·호스트 객체, 화살표 함수와 this 바인딩
 - [2026-09-30](JS/2026-09-30.md) — 브라우저 렌더링 파이프라인, BOM(Window·Location·History), DOM 트리와 요소 제어
 - [2026-10-01](JS/2026-10-01.md) — 이벤트 처리·전파, 비동기 프로그래밍(콜백·Promise·async/await), fetch API
+
+</details>
+
+---
+
+## 🔷 TS
+
+<details open>
+<summary>전체 목록 보기 (1개)</summary>
+
+- [2026-10-02](TS/2026-10-02.md) — TypeScript 등장 배경·트랜스파일, 개발 환경(nvm·tslab), 원시 타입·배열·튜플, 특수 타입과 타입 추론·단언
 
 </details>
 
