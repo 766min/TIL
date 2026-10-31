@@ -18,6 +18,7 @@ CATEGORIES = [
     ("JS", "⚡ JS"),
     ("TS", "🔷 TS"),
     ("NEXTJS", "⚛️ NEXTJS"),
+    ("BACKEND", "🚀 BACKEND"),
 ]
 
 DATE_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})\.md$")

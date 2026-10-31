@@ -4,8 +4,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/766min/TIL?style=flat-square&color=orange)
 <!-- BADGES:START -->
-![Total Notes](https://img.shields.io/badge/총_학습노트-44개-brightgreen?style=flat-square)
-![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.10.07-lightgrey?style=flat-square)
+![Total Notes](https://img.shields.io/badge/총_학습노트-60개-brightgreen?style=flat-square)
+![Period](https://img.shields.io/badge/기록기간-2026.08.08_~_2026.10.30-lightgrey?style=flat-square)
 <!-- BADGES:END -->
 
 ---
@@ -36,9 +36,10 @@ TIL/
 | 🗄️ SQL | 9개 | 2026.09.03 ~ 2026.09.13 |
 | 🌐 HTML | 5개 | 2026.09.14 ~ 2026.09.18 |
 | ⚡ JS | 6개 | 2026.09.21 ~ 2026.10.01 |
-| 🔷 TS | 2개 | 2026.10.02 ~ 2026.10.06 |
-| ⚛️ NEXTJS | 1개 | 2026.10.07 ~ 2026.10.07 |
-| **합계** | **44개** | **2026.08.08 ~ 2026.10.07** |
+| 🔷 TS | 3개 | 2026.10.02 ~ 2026.10.08 |
+| ⚛️ NEXTJS | 11개 | 2026.10.07 ~ 2026.10.23 |
+| 🚀 BACKEND | 5개 | 2026.10.26 ~ 2026.10.30 |
+| **합계** | **60개** | **2026.08.08 ~ 2026.10.30** |
 <!-- STATS:END -->
 
 ---
